@@ -12,7 +12,7 @@
   <div style="max-width:800px;margin:0 auto;">
     <div style="margin-bottom:20px;">
       <a href="https://first-horseman.com/" style="color:#c9a227;text-decoration:none;margin:0 15px;">Home</a>
-      <a href="https://first-horseman.com/blog-6877" style="color:#c9a227;text-decoration:none;margin:0 15px;">Blog</a>
+      <a href="https://first-horseman.com/blog" style="color:#c9a227;text-decoration:none;margin:0 15px;">Blog</a>
       <a href="https://first-horseman.com/faqs" style="color:#c9a227;text-decoration:none;margin:0 15px;">FAQ</a>
       <a href="https://first-horseman.com/the-first-horseman-273074#get-access" style="color:#c9a227;text-decoration:none;margin:0 15px;">Get the Book</a>
     </div>
