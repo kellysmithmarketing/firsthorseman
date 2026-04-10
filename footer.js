@@ -21,10 +21,11 @@
       &nbsp;|&nbsp;
       <a href="https://first-horseman.com/terms-of-service-997301" style="color:#c9a227;text-decoration:none;">Terms of Service</a>
     </p>
-    <p style="font-size:0.85rem;opacity:0.7;max-width:600px;margin:20px auto 0;color:#fff;">
-      &copy; 2026 Kelly Smith. All rights reserved.<br><br>
-      This work represents personal spiritual insights and scriptural interpretations. The views expressed are those of the author and do not represent the official position of The Church of Jesus Christ of Latter-day Saints. All sales are final for digital products due to immediate access.
-    </p>
+   <p style="font-size:0.85rem;opacity:0.7;max-width:600px;margin:20px auto 0;color:#fff;">
+  &copy; 2026 Kelly Smith. All rights reserved.<br><br>
+  This work represents personal spiritual insights and scriptural interpretations. The views expressed are those of the author and do not represent the official position of The Church of Jesus Christ of Latter-day Saints. All sales are final for digital products due to immediate access.<br><br>
+  This content is not sponsored by, endorsed by, or affiliated with Meta (Facebook/Instagram), Google, YouTube, or any other advertising platform. Any paid promotion is the sole responsibility of the author.
+</p>
   </div>
 </div>
 `;
