@@ -16,7 +16,7 @@
 <div style="background:#1a1a2e;padding:15px 20px;text-align:center;font-family:Georgia,serif;border-bottom:1px solid #c9a227;">
   <a href="https://first-horseman.com/" style="color:#c9a227;text-decoration:none;font-size:0.95rem;">&#8592; Home</a>
   <span style="color:#c9a227;opacity:0.4;margin:0 15px;">|</span>
-  <a href="https://first-horseman.com/blog-6877" style="color:#c9a227;text-decoration:none;font-size:0.95rem;">All Articles</a>
+  <a href="https://first-horseman.com/blog" style="color:#c9a227;text-decoration:none;font-size:0.95rem;">All Articles</a>
   <span style="color:#c9a227;opacity:0.4;margin:0 15px;">|</span>
   <a href="https://first-horseman.com/the-first-horseman-273074#get-access" style="color:#c9a227;text-decoration:none;font-size:0.95rem;">Get the Book</a>
   <span style="color:#c9a227;opacity:0.4;margin:0 15px;">|</span>
